@@ -4,7 +4,7 @@ Steps:- <br/>
 2.Exploratory Data Analysis <br/>
 3.Outlier Analysis / Transformation / Treatment <br/>
 4.Modelling <br/>
-5.Model accurance & Metrics <br/>
+5.Model accurancy & Metrics <br/>
 6.Final analysis and conclusions <br/>
 <br/>
 Contents: <br/>
